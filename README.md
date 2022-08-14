@@ -1,5 +1,6 @@
 # README
-Complete Ruby on rails Developer
+First Test Repo on Complete Ruby on rails Developer By Arturo Paredes.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
