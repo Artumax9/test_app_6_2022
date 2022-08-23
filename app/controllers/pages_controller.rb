@@ -3,4 +3,6 @@ class PagesController < ApplicationController
         #render html: 'Hello Wordl!'
     end
 
+    def about
+    end
 end
